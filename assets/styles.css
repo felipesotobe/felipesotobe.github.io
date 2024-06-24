@@ -62,8 +62,13 @@ footer {
     padding: 1px 0;
     background-color: #505253;
     color: white;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
+footer i {
+    font-size: 1px; /* Tamaño del icono */
+    color: red; /* Color del icono */
+    margin-right: 5px; /* Espacio a la derecha del icono */
+}
+
 
